@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./disciplinedecle00labogoog_0009.png"; bbox 0 0 2286 4238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 1062 774 1159">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 1062 774 1159">
+     <span class='ocr_line' id='line_1_1' title="bbox 86 1062 774 1159; baseline -0.013 -4"><span class='ocrx_word' id='word_1_1' title='bbox 86 1066 399 1159; x_wconf 78' lang='lat' dir='ltr'><strong>DISCIPLINA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 433 1062 774 1153; x_wconf 73' lang='lat' dir='ltr'><strong>CLIIRIGALIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 409 1514 455 1561">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 409 1514 455 1561">
+     <span class='ocr_line' id='line_1_2' title="bbox 409 1514 455 1561; baseline 0.043 -2"><span class='ocrx_word' id='word_1_3' title='bbox 409 1514 455 1561; x_wconf 77' lang='lat' dir='ltr'><strong>LA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 120 1700 741 1801">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 120 1700 741 1801">
+     <span class='ocr_line' id='line_1_3' title="bbox 120 1700 741 1801; baseline 0.002 -24"><span class='ocrx_word' id='word_1_4' title='bbox 120 1702 396 1801; x_wconf 74' lang='lat' dir='ltr'><strong>mscleNss</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 422 1702 487 1779; x_wconf 80' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 514 1700 741 1782; x_wconf 70' lang='lat' dir='ltr'>cmssfflss.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1148 4238">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1148 4238">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1148 4238; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1148 4238; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
